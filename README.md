@@ -1,12 +1,9 @@
-Here’s a professional **README.md** file for your **Diabetes Prediction Model** GitHub repository. You can customize it further based on your project details.  
-
----  
-
+ 
 # **Diabetes Prediction Model using SVM**  
 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1.0+-orange)  
 
-This project implements a **Support Vector Machine (SVM)** classifier to predict the likelihood of diabetes based on diagnostic measurements. The model is trained on the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) and achieves an accuracy of **XX%**.  
+This project implements a **Support Vector Machine (SVM)** classifier to predict the likelihood of diabetes based on diagnostic measurements. The model is trained on the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).  
 
 ## **📌 Table of Contents**  
 - [Features](#-features)  
